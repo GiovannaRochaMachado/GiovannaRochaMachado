@@ -4,7 +4,7 @@
 
 •  Estagiária em QA - Automação de Testes
 
-•  Atualmente aprendendo e estudando Java e Automação de Testes 
+•  Atualmente aprendendo a linguagem Java e estudando Automação de Testes 
 
 <br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaRochaMachado&hide_progress=true)
