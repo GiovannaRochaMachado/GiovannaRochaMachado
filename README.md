@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+
+### Olá mundo, eu sou a Giovanna Rocha! 👋
 
 <!--
 **GiovannaRochaMachado/GiovannaRochaMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME/github-readme-stats)
