@@ -1,20 +1,9 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+### Olá mundo, eu sou a Giovanna Rocha! 💜
+<p></p>
+- Tecnóloga em formação em Desenvolvimento de Software Multilataforma pela Fatec Mauá 🖥️
+- Estagiária em QA - Automação de Testes
+- Atualmente aprendendo e estudando Java e Automação de Testes 
 
-### Olá mundo, eu sou a Giovanna Rocha! 👋
-
-<!--
-**GiovannaRochaMachado/GiovannaRochaMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+<br></br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaRochaMachado&hide_progress=true)
+<!-- [![Giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovannaRochaMachado)](https://github.com/GiovannaRochaMachado/github-readme-stats) -->
