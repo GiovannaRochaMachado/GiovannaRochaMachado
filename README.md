@@ -1,7 +1,7 @@
 ### Olá mundo, eu sou a Giovanna Rocha! 🖥️💜
 <p>
 
-•  Aluna em Desenvolvimento de Software Multiplataforma pela Fatec Mauá 
+•  Tecnóloga em formação em Desenvolvimento de Software Multiplataforma pela Fatec Mauá 
 
 •  Estagiária em QA - Automação de Testes
 
